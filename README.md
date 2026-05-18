@@ -62,7 +62,7 @@ The project utilizes the following technologies and tools:
 1. **Clone the Repository**: Clone the repository to your local machine using Git Bash or any other terminal.
 
    ```powershell
-   git clone https://github.com/yourusername/Java.git
+   git clone https://github.com/coy0427/Java.git
    cd Java
    ```
 
